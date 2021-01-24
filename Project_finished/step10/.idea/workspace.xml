@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="041efc5b-8d9e-41ac-93fe-8a24c690c767" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1beJ3YrF3z8uz9BFsh3P9gDbm6n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../step11" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="041efc5b-8d9e-41ac-93fe-8a24c690c767" name="Default Changelist" comment="" />
+      <created>1588986426884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588986426884</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="573" y="316" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1588987152614">
+      <screen x="0" y="27" width="1680" height="1023" />
+    </state>
+    <state x="573" y="316" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog/0.27.1680.1023@0.27.1680.1023" timestamp="1588987152614" />
+    <state x="593" y="428" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588987154326">
+      <screen x="0" y="27" width="1680" height="1023" />
+    </state>
+    <state x="593" y="428" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1680.1023@0.27.1680.1023" timestamp="1588987154326" />
+    <state x="601" y="403" width="477" height="338" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1588991357179">
+      <screen x="0" y="27" width="1680" height="1023" />
+    </state>
+    <state x="601" y="403" width="477" height="338" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.27.1680.1023@0.27.1680.1023" timestamp="1588991357179" />
+    <state x="623" y="295" width="424" height="484" key="FileChooserDialogImpl" timestamp="1589755006679">
+      <screen x="0" y="27" width="1680" height="1023" />
+    </state>
+    <state x="623" y="295" width="424" height="484" key="FileChooserDialogImpl/0.27.1680.1023@0.27.1680.1023" timestamp="1589755006679" />
+    <state x="544" y="312" width="571" height="451" key="RefactorJ.ExtractClass" timestamp="1588987081889">
+      <screen x="0" y="27" width="1680" height="1023" />
+    </state>
+    <state x="544" y="312" width="571" height="451" key="RefactorJ.ExtractClass/0.27.1680.1023@0.27.1680.1023" timestamp="1588987081889" />
+    <state x="573" y="298" width="524" height="479" key="extract.method.dialog" timestamp="1588991029888">
+      <screen x="0" y="27" width="1680" height="1023" />
+    </state>
+    <state x="573" y="298" width="524" height="479" key="extract.method.dialog/0.27.1680.1023@0.27.1680.1023" timestamp="1588991029888" />
+  </component>
+</project>
